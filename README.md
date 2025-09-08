@@ -1,25 +1,25 @@
-# Olá, sou Weden Gabriel 👋
+# 👋 Olá, eu sou Gabriel Weden!
 
-Desenvolvedor apaixonado por tecnologia e automação.
+Bem-vindo ao meu GitHub! Sou estudante, apaixonado por tecnologia e sempre em busca de novos aprendizados e desafios. Meu maior prazer na área é resolver problemas reais — especialmente usando VBA, a linguagem que mais utilizo no trabalho.
 
-## 🚀 Projetos
+## 🚀 Sobre mim
+- 🎓 Estudante | Futuro desenvolvedor
+- 💻 Programo em **Python**, **VBA** e **C++**
+- 🏆 Meu projeto favorito é meu trabalho — utilizo VBA para automatizar e melhorar processos empresariais.
 
-- [Parecis S.A.](https://github.com/wedengabriel/Parecis-S-A): Automação de envio de relatórios de turno via VBA.
-- [Controle de Estoque](https://github.com/wedengabriel/Controle-de-Estoque): Sistema para gerenciamento de estoque.
+## 🌟 Projetos em destaque
+- [Parecis-S-A](https://github.com/wedengabriel/Parecis-S-A)
+- [Api-Filme](https://github.com/wedengabriel/Api-Filme)
+- [Almoxarifado-Parecis](https://github.com/wedengabriel/Almoxarifado-Parecis)
+- [DevOps-Uninter/trabalhodevops](https://github.com/DevOps-Uninter/trabalhodevops)
 
-## 📫 Como me encontrar
+## 🔗 Redes sociais
+- [Instagram](https://instagram.com/weden_gabriel)  
+- [Facebook](https://facebook.com/weden_gabriel)
 
-- [LinkedIn](https://www.linkedin.com/in/wedengabriel)
-- [Twitter](https://twitter.com/wedengabriel)
-- [Email](mailto:wedengabriel@example.com)
+## 🎮 Hobbies
+Quando não estou programando, adoro assistir séries e jogar no PC!
 
-## 🛠️ Tecnologias
+---
 
-- VBA
-- Excel
-- GitHub Actions
-- HTML/CSS
-
-## 📈 Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wedengabriel&show_icons=true&theme=radical)
+> 💡 **Vamos nos conectar, colaborar e codar!**
