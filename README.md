@@ -1,11 +1,12 @@
 # 👋 Olá, eu sou Gabriel Weden!
 
-Bem-vindo ao meu GitHub! Sou estudante, apaixonado por tecnologia e sempre em busca de novos aprendizados e desafios. Meu maior prazer na área é resolver problemas reais — especialmente usando VBA, a linguagem que mais utilizo no trabalho.
+Bem-vindo ao meu GitHub! Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Uninter, apaixonado por tecnologia e sempre em busca de novos aprendizados e desafios. Meu maior prazer na área é resolver problemas reais — especialmente usando **VBA** e **Python** para automatizar processos e tratar dados.
 
 ## 🚀 Sobre mim
-- 🎓 Estudante | Futuro desenvolvedor
+- 🎓 Estudante de **ADS** na Uninter | Futuro desenvolvedor
 - 💻 Programo em **Python**, **VBA** e **C++**
-- 🏆 Meu projeto favorito é meu trabalho — utilizo VBA para automatizar e melhorar processos empresariais.
+- 🏆 Meu projeto favorito é meu trabalho — utilizo VBA para automatizar e melhorar processos empresariais
+- 🐍 Gosto de usar Python para tratamento de dados e criação de scripts que automatizam tarefas do dia a dia
 
 ## 🌟 Projetos em destaque
 - [Parecis-S-A](https://github.com/wedengabriel/Parecis-S-A)
