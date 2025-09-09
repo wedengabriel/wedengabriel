@@ -22,7 +22,7 @@ Bem-vindo ao meu GitHub! Sou estudante de **Análise e Desenvolvimento de Sistem
 - [🔗Clique aqui](https://wedengabriel.github.io/Meu-Portifolio/)
 
 ## 🎮 Hobbies
-Quando não estou programando, adoro assistir séries e jogar no PC!
+Quando não estou programando, Gosto de  assistir séries ou jogar no PC!
 
 ---
 
