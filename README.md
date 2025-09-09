@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Gabriel Weden!
+# 👋 Olá, eu sou Weden Gabriel!
 
 Bem-vindo ao meu GitHub! Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Uninter, apaixonado por tecnologia e sempre em busca de novos aprendizados e desafios. Meu maior prazer na área é resolver problemas reais — especialmente usando **VBA** e **Python** para automatizar processos e tratar dados.
 
