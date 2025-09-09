@@ -9,7 +9,7 @@ Bem-vindo ao meu GitHub! Sou estudante de **Análise e Desenvolvimento de Sistem
 - 🐍 Gosto de usar Python para tratamento de dados e criação de scripts que automatizam tarefas do dia a dia
 
 ## 🌟 Projetos em destaque
-- [Parecis-S-A](https://github.com/wedengabriel/Parecis-S-A)
+- [EmailLayoutVBA](https://github.com/wedengabriel/EmailLayoutVBA)
 - [Api-Filme](https://github.com/wedengabriel/Api-Filme)
 - [Almoxarifado-Parecis](https://github.com/wedengabriel/Almoxarifado-Parecis)
 - [DevOps-Uninter/trabalhodevops](https://github.com/DevOps-Uninter/trabalhodevops)
