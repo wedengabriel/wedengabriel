@@ -18,7 +18,7 @@ Bem-vindo ao meu GitHub! Sou estudante de **Análise e Desenvolvimento de Sistem
 - [Instagram](https://instagram.com/weden_gabriel)  
 - [Facebook](https://www.facebook.com/wedengabrieldasilvagomes)
 
-## 🌐Meu site
+## 🌐Meu Portfolio
 - [🔗Clique aqui](https://wedengabriel.github.io/Meu-Portifolio/)
 
 ## 🎮 Hobbies
